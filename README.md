@@ -15,6 +15,7 @@
 + [damt](https://github.com/therealdamt) | Lead Developer
 + [Refine Development](https://github.com/RefineDevelopment) | Lead Developer
 + [Steamworks](https://github.com/steamworksmc) | Contributor
+ + [Anxiety](https://github.com/AnxietyDev) | Contributor
 
 ## Contact
 - [Discord](https://dsc.gg/refine)
